@@ -22,7 +22,22 @@ The purpose of this project is to analyze the orders in the customer data to und
 * Python
 * PowerBI
 * MySql
-  
+ ## Questions Answered
+
+The following are a few of the questions that are answered in the project (check out <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a> file for the rest):
+
+* What are the least and most expensive items on the list?
+* Number of italian dishes on the menu and the least and most expensive items?
+* Which orders had the most number of items?
+* What are the top 5 orders that made the most money?
+* What was orderd in the highest order code?
+
+## Results
+Check out the results <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/analysis.sql">analysis.sql</a>
+
+## Conclusion
+
+The project was successful in answering the set of questions about the restaurant orders analysis. The results of the project can be used by world cafe causine to improve their menu items and understand their customer needs.
 
 
 
